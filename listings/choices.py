@@ -1,0 +1,16 @@
+title_choices = {
+    'APPEALING FIGURATIVES': 'APPEALING FIGURATIVES',
+    'COLORFUL ABSTRACTS': 'COLORFUL ABSTRACTS',
+    'FLORAL': 'FLORAL',
+    'MYTHOLOGICAL': 'MYTHOLOGICAL',
+    'SERENE LANDSCAPE': 'SERENE LANDSCAPE',
+    'STILL': 'STILL'
+}
+
+price_choices = {
+    '1000': '$1,000',
+    '1500': '$1,500',
+    '2000': '$2,000',
+    '2500': '$2,500+',
+
+}
